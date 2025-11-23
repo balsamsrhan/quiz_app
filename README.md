@@ -8,7 +8,7 @@ The app allows users to answer multiple-choice questions, track their score, and
 ## 📱 Screenshots
 
 <div style="display: flex; gap: 10px;">
-  <img src="assets/ui.png" width="250"/>
+  <img src="assets/ui.png" width="1000"/>
 
 </div>
 
@@ -38,7 +38,7 @@ The app allows users to answer multiple-choice questions, track their score, and
 
 👨‍💻 Developer
 
-Balsam serhan
+Balsam serhan ||
 Flutter Developer
 
 GitHub: https://github.com/balsamsrhan
